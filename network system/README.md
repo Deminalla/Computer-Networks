@@ -52,7 +52,7 @@ realizuoti su Cisco Packet Tracer MTK kompiuterių tinklą.
 * 187.18.5.0/24
 * 2028:17c:ced1::/48
 
-![image](https://github.com/Deminalla/Computer-Network/assets/65849358/0f9ebcc9-9ff4-4026-9856-9daa8e1e021a)
+![Alt text](image.png)
 
 ## Extra task ##
 * Add a siren, which starts going off after the temperature rises to a specific point. Use MCU and write some code in it.
